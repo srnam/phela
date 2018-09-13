@@ -1,0 +1,11 @@
+#include<conio.h>
+#include<iostream.h>
+class sample{
+private:
+int a;
+static int b;
+  public:
+  void get(){cout<<"\n enter a: ";cin>>n;}
+  new *p=int [n];
+  static void show_data(){cout<<"\n enter n:"}
+};
